@@ -53,15 +53,19 @@ Developed by: GANJI MUNI MADHURI
 RegisterNumber: 212223230060
 
 RTL realization
-![exp2](https://github.com/Munimadhuriganji/BOOLEAN_FUNCTION_MINIMIZATION/assets/138849444/51319956-39bf-478e-8947-9ae852e006a1)
+![exp2](https://github.com/Munimadhuriganji/BOOLEAN_FUNCTION_MINIMIZATION/assets/138849444/5860b373-52b6-4918-aa64-b9ed1588cf2d)
+
 
 TIMETABLE:
+
 ![FAF](https://github.com/Munimadhuriganji/BOOLEAN_FUNCTION_MINIMIZATION/assets/138849444/dabb1bcc-578e-4d25-a032-bc438a2b5d5c)
+
 ![ds](https://github.com/Munimadhuriganji/BOOLEAN_FUNCTION_MINIMIZATION/assets/138849444/702a9dd8-8f1e-433c-86ef-50ac80dca677)
 
 
 Timing Diagram:
-![Screenshot 2024-03-14 152244](https://github.com/Munimadhuriganji/BOOLEAN_FUNCTION_MINIMIZATION/assets/138849444/6cbddc99-51ea-4d6b-8fa3-155235f95c4f)
+![hgd](https://github.com/Munimadhuriganji/BOOLEAN_FUNCTION_MINIMIZATION/assets/138849444/6e616c4f-efbc-41a8-95c5-fc613ca149c7)
+
 
 Result:
 
