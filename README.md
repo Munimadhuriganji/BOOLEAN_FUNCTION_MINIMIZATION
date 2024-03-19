@@ -57,10 +57,11 @@ RTL realization
 
 TIMETABLE:
 ![FAF](https://github.com/Munimadhuriganji/BOOLEAN_FUNCTION_MINIMIZATION/assets/138849444/dabb1bcc-578e-4d25-a032-bc438a2b5d5c)
-![313137833-f82b9b45-3fae-4809-b3e0-3eba19ae9164](https://github.com/Munimadhuriganji/BOOLEAN_FUNCTION_MINIMIZATION/assets/138849444/3acf0d21-b65a-421b-b107-46cd69024b30)
+![ds](https://github.com/Munimadhuriganji/BOOLEAN_FUNCTION_MINIMIZATION/assets/138849444/702a9dd8-8f1e-433c-86ef-50ac80dca677)
 
-Timing Diagram
-![313137833-f82b9b45-3fae-4809-b3e0-3eba19ae9164](https://github.com/Munimadhuriganji/BOOLEAN_FUNCTION_MINIMIZATION/assets/138849444/d9fb4160-3148-4b83-a0d9-8c1a1f60e619)
+
+Timing Diagram:
+![Screenshot 2024-03-14 152244](https://github.com/Munimadhuriganji/BOOLEAN_FUNCTION_MINIMIZATION/assets/138849444/6cbddc99-51ea-4d6b-8fa3-155235f95c4f)
 
 Result:
 
